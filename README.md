@@ -1,2 +1,2 @@
 # datacamp-projects-competitions
-Projects and competitions at DataCamp
+My solutions for projects and competitions at [DataCamp](https://www.datacamp.com/profile/kantora)
